@@ -1,3 +1,5 @@
+// servo motor with variable resistence
+
 #include <Servo.h>
 Servo myservo;
 
